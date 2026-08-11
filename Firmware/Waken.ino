@@ -1,6 +1,6 @@
 /*
   =============================================================================
-  WAKER  —  ESP32-S3 Smartwatch Firmware
+  WAKEN  —  ESP32-S3 Smartwatch Firmware
   =============================================================================
   Board:      Custom "Waker V0.1" (schematic: Waker V1.0)
   MCU:        ESP32-S3
@@ -474,7 +474,7 @@ String buildAlarmPage() {
   html += F(
     "<!DOCTYPE html><html><head>"
     "<meta name='viewport' content='width=device-width,initial-scale=1'>"
-    "<title>Waker Alarm</title><style>"
+    "<title>Waken Alarm</title><style>"
     "body{font-family:-apple-system,'Segoe UI',Roboto,sans-serif;background:#0f1115;color:#eee;"
     "display:flex;justify-content:center;padding:32px 16px;margin:0}"
     ".card{background:#1b1e26;border-radius:16px;padding:28px 24px;max-width:360px;width:100%;"
@@ -492,7 +492,7 @@ String buildAlarmPage() {
     ".primary{background:#4c7cf3;color:#fff}"
     ".toggle{background:#2a2f3a;color:#eee;margin-top:10px}"
     "</style></head><body><div class='card'>"
-    "<h1>Waker</h1><div class='sub'>Alarm configuration</div>"
+    "<h1>Waken</h1><div class='sub'>Alarm configuration</div>"
     "<div class='status'><div class='time'>");
   html += nowBuf;
   html += F("</div><div class='row'><span>Alarm</span><span>");
@@ -1266,7 +1266,7 @@ void drawSysInfoApp() {
 
 void drawAboutApp() {
   drawStatusBar();
-  centerText("WAKER", 16, 2);
+  centerText("WAKEN", 16, 2);
   centerText("Firmware v1.0", 38);
   centerText("Custom ESP32-S3 Watch", 50);
 }
