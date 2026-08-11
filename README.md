@@ -4,11 +4,16 @@ A ESP powered Smart watch which gives you a little zap to wake you up silently w
 # why I built it ?
 Ahhhh! I'm not crazy, I just sleep like a stone . So to get me up on time, I caught an idea why not make a watch which sits on my wrist and give me a little zap of 400V (\j) to wake me up . 
 
+# Demo link
+   https://youtu.be/53Z-3iZXITg?si=bSotyN73lvlZD2hz
+
 # Zine
 
  <img width="540" height="828" alt="Frame 7" src="https://github.com/user-attachments/assets/55399966-3c21-4b40-9d7e-e50a8439b11e" />
  
 
+# prototype 01
+ 
  
 # Shematics 
 I've used EasyEDA for design designing this project
