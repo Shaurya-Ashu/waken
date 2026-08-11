@@ -10,6 +10,9 @@ Ahhhh! I'm not crazy, I just sleep like a stone . So to get me up on time, I cau
 # Zine
 
  <img width="540" height="828" alt="Frame 7" src="https://github.com/user-attachments/assets/55399966-3c21-4b40-9d7e-e50a8439b11e" />
+
+ <img width="540" height="828" alt="Frame 8" src="https://github.com/user-attachments/assets/985dc4fe-2637-450e-a516-bfd46b1d95c8" />
+
  
 
 # prototype 01
@@ -28,6 +31,7 @@ Ahhhh! I'm not crazy, I just sleep like a stone . So to get me up on time, I cau
 
 <img width="967" height="545" alt="WhatsApp Image 2026-08-12 at 00 28 32" src="https://github.com/user-attachments/assets/3194fef2-0171-4d89-9a11-b4bc241e5e4b" />
 
+<img width="3072" height="4080" alt="WhatsApp Image 2026-08-12 at 00 47 58 (1)" src="https://github.com/user-attachments/assets/fb2b4b73-d5f2-42de-9f53-3ae5170d621a" />
 
  
  
