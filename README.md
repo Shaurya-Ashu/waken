@@ -13,6 +13,22 @@ Ahhhh! I'm not crazy, I just sleep like a stone . So to get me up on time, I cau
  
 
 # prototype 01
+
+<img width="3264" height="2448" alt="IMG_3605" src="https://github.com/user-attachments/assets/2705a334-2e00-4828-8da5-d52d203bac75" />
+
+
+<img width="3264" height="2448" alt="IMG_3602" src="https://github.com/user-attachments/assets/2d9aac57-94ac-4a26-861a-6ef5c21fc0ed" />
+
+
+<img width="3264" height="2448" alt="IMG_3601" src="https://github.com/user-attachments/assets/1d4dde9c-8a23-4d5e-9558-52654832c525" />
+
+
+<img width="3264" height="2448" alt="IMG_3595" src="https://github.com/user-attachments/assets/955a36b4-190c-4a4e-9c49-af1db9f85d6f" />
+
+
+<img width="967" height="545" alt="WhatsApp Image 2026-08-12 at 00 28 32" src="https://github.com/user-attachments/assets/3194fef2-0171-4d89-9a11-b4bc241e5e4b" />
+
+
  
  
 # Shematics 
